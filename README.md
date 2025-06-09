@@ -1,110 +1,160 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&duration=4000&pause=1000&color=6E41BF&center=true&vCenter=true&random=false&width=500&lines=DESETI;Blockchain+Architect;Web3+Developer" alt="Typing SVG" />
+</div>
+
+![Header](https://raw.githubusercontent.com/deseti/deseti/main/community-event.png)
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deseti/deseti/main/community-event.png" alt="Community Event" width="100%">
+  <a href="https://x.com/deseti_nad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/deseti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linktr.ee/deseti"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"></a>
+  <a href="https://discordapp.com/users/desti213"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Deseti+%F0%9F%91%8B;Creative+Technologist+%7C+Open+Source+Enthusiast;Let%27s+build+and+have+fun+together!+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=deseti&color=6e41bf&style=flat-square" alt="Profile views">
 </p>
 
-<h1 align="center">🎮 Welcome to My Dev Adventure!</h1>
+## 🔮 About Me
+
+> Blockchain architect focused on building next-generation decentralized infrastructure, with specialization in the Monad ecosystem. I create innovative solutions that bridge traditional systems and Web3 technologies.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Monad Allegiance</h3>
+      <p align="center">
+        <a href="https://github.com/deseti/monad-allegiance">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=deseti&repo=monad-allegiance&theme=react&bg_color=1F222E&title_color=6E41BF&icon_color=F8D866&hide_border=true&show_icons=false" alt="monad-allegiance">
+        </a>
+        <p align="center">Community governance and allegiance tracking system with weighted voting mechanisms.</p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">MoniVault</h3>
+      <p align="center">
+        <a href="https://github.com/deseti/MoniVault">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=deseti&repo=MoniVault&theme=react&bg_color=1F222E&title_color=6E41BF&icon_color=F8D866&hide_border=true&show_icons=false" alt="MoniVault">
+        </a>
+        <p align="center">Secure asset vault on Monad with multi-signature capabilities and advanced permission controls.</p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MCP-MONI</h3>
+      <p align="center">
+        <a href="https://github.com/deseti/MCP-MONI">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=deseti&repo=MCP-MONI&theme=react&bg_color=1F222E&title_color=6E41BF&icon_color=F8D866&hide_border=true&show_icons=false" alt="MCP-MONI">
+        </a>
+        <p align="center">Monad Cross-Protocol interface for MONI tokens enabling interoperability between protocols.</p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Future Innovation</h3>
+      <p align="center">
+        <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=deseti&repo=deseti&theme=react&bg_color=1F222E&title_color=6E41BF&icon_color=F8D866&hide_border=true&show_icons=false" alt="future-project">
+        <p align="center">Building next generation DeFi infrastructure on Monad. Stay tuned for updates.</p>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+## 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/deseti?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/deseti?style=social" />
-  <img src="https://img.shields.io/badge/Code-Open%20Source-brightgreen" />
-  <img src="https://img.shields.io/badge/Coffee-Powered-ff7f50" />
-  <img src="https://img.shields.io/badge/Build+with-❤️-red" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethers.js-2535a0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Foundry-414141?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry" />
+  <img src="https://img.shields.io/badge/Monad-6e41bf?style=for-the-badge" alt="Monad" />
+</p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nodejs,rust,python,git,vscode&theme=dark" alt="Skills" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding Animation" width="500px" height="auto">
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deseti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6E41BF&icon_color=F8D866" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deseti&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=6E41BF&icon_color=F8D866" height="170px"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deseti&theme=tokyonight&hide_border=true&background=1F222E&stroke=6E41BF&fire=6E41BF&ring=6E41BF" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🌐 Current Focus
 
-- 👨‍💻 &nbsp; Hi, I’m Deseti
-- 🚀 &nbsp; I love open source, building automation, and creative coding
-- 🏆 &nbsp; Always eager to learn, share, and collaborate
-- 🌱 &nbsp; Currently exploring: Cloud Automation, Security, and Reactive Programming
-- 🎯 &nbsp; Fun fact: I enjoy gamifying my work & learning!
-
----
-
-## 🚀 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,go,js,nodejs,react,python,postgresql,docker,linux,git,redis,graphql,aws" height="32" />
-</p>
-
----
-
-## 🕹️ Mini Game: Choose Your Dev Path!
-
-<details open>
-  <summary><b>Start Your Adventure!</b></summary>
-
+<div align="center">
   <table>
     <tr>
-      <td valign="top"><b>🌀 Monad Allegiance</b></td>
-      <td>
-        <i>Code Puzzle:</i><br>
-        What is the result of <code>[1,2,3].map(x =&gt; x * 2)</code>?<br>
-        <details>
-          <summary>Show Answer</summary>
-          <b>[2, 4, 6]</b> 🎉
-        </details>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-High--Performance_Blockchains-6E41BF?style=for-the-badge" alt="High-Performance Blockchains">
+        <p>Advancing execution environments for next-gen chains</p>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Novel_Consensus_Mechanisms-6E41BF?style=for-the-badge" alt="Novel Consensus Mechanisms">
+        <p>Researching scalable network solutions</p>
       </td>
     </tr>
     <tr>
-      <td valign="top"><b>🔒 MoniVault</b></td>
-      <td>
-        <i>The digital vault is locked.</i><br>
-        Password clue: <b>repo name reversed!</b>
-        <details>
-          <summary>Need a hint?</summary>
-          <code>tluavinoM</code>
-        </details>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Cross--Chain_Solutions-6E41BF?style=for-the-badge" alt="Cross-Chain Solutions">
+        <p>Developing seamless interoperability protocols</p>
       </td>
-    </tr>
-    <tr>
-      <td valign="top"><b>⚡ MCP-MONI</b></td>
-      <td>
-        <i>A dashboard appears with a big red button.</i><br>
-        <details>
-          <summary>Push the button?</summary>
-          🚀 Automation success! Productivity +10!
-        </details>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Monad_Ecosystem_Growth-6E41BF?style=for-the-badge" alt="Monad Ecosystem Growth">
+        <p>Contributing to developer tools and infrastructure</p>
       </td>
     </tr>
   </table>
-</details>
+</div>
 
 ---
 
-## 🏅 Achievements
+<div align="center">
+  <h2>💼 Professional Engagement</h2>
+  <p>Building transformative blockchain technologies that bridge traditional finance and Web3.</p>
+  <p>Open to collaboration on innovative projects in DeFi, cross-chain interoperability, and Layer 1 ecosystems.</p>
+  <a href="https://linktr.ee/deseti">
+    <img src="https://img.shields.io/badge/Get%20in%20Touch-6E41BF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contact Me">
+  </a>
+</div>
 
-- 🧠 Functional Programming Guru ([Monad Allegiance](https://github.com/deseti/monad-allegiance))
-- 🛡️ Security Enthusiast ([MoniVault](https://github.com/deseti/MoniVault))
-- ⚡ Automation Champion ([MCP-MONI](https://github.com/deseti/MCP-MONI))
-- 🤝 Open Source Mentor
-- 📝 Technical Writer
+<br>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+</div>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deseti&show_icons=true&theme=radical" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deseti&layout=compact&theme=radical" height="140"/>
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 📨 Email: [almachzumisetiaji1@gmail.com](mailto:almachzumisetiaji1@gmail.com)
-- 🕊️ X: [@deseti_nad](https://x.com/deseti_nad)
-- 💼 LinkedIn: [linkedin.com/in/almachzumi](https://linkedin.com/in/almachzumi)
-- 💬 Open an issue/discussion to start a quest!
-
----
-
-<p align="center"><sub>🕹️ Powered up with ☕, code, and curiosity. Let’s play, build, and grow together!</sub></p>
+<div align="center">
+  <p><i>Building the decentralized future, one block at a time.</i></p>
+</div>
