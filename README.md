@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-- 👨‍💻 &nbsp; Hi, I’m Deseti (Almachzumi Setiaji)
+- 👨‍💻 &nbsp; Hi, I’m Deseti
 - 🚀 &nbsp; I love open source, building automation, and creative coding
 - 🏆 &nbsp; Always eager to learn, share, and collaborate
 - 🌱 &nbsp; Currently exploring: Cloud Automation, Security, and Reactive Programming
