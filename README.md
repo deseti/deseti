@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/deseti/deseti/main/community-event.png" alt="Community Event" width="100%">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Deseti+%F0%9F%91%8B;Creative+Technologist+%7C+Open+Source+Enthusiast;Let%27s+build+and+have+fun+together!+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
@@ -91,17 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=deseti&show_icons=true&theme=radical" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deseti&layout=compact&theme=radical" height="140"/>
 </p>
-<p align="center">
-  <img src="https://readme-activity-graph.cyclic.app/graph?username=deseti&theme=react-dark" width="90%"/>
-</p>
-
----
-
-## 🌱 Contribution & Collaboration
-
-- 💬 Open to code reviews, pairing, and new open source projects
-- 🏆 Let’s build something impactful together!
-- 📢 Want to contribute? Check my pinned repos or open an issue/discussion
 
 ---
 
