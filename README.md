@@ -9,27 +9,39 @@
   <img src="https://img.shields.io/github/stars/deseti?style=social" />
   <img src="https://img.shields.io/badge/Code-Open%20Source-brightgreen" />
   <img src="https://img.shields.io/badge/Coffee-Powered-ff7f50" />
+  <img src="https://img.shields.io/badge/Build+with-❤️-red" />
 </p>
 
 ---
 
+## 👋 About Me
+
+- 👨‍💻 &nbsp; Hi, I’m Deseti (Almachzumi Setiaji)
+- 🚀 &nbsp; I love open source, building automation, and creative coding
+- 🏆 &nbsp; Always eager to learn, share, and collaborate
+- 🌱 &nbsp; Currently exploring: Cloud Automation, Security, and Reactive Programming
+- 🎯 &nbsp; Fun fact: I enjoy gamifying my work & learning!
+
+---
+
+## 🚀 Tech Stack & Tools
+
 <p align="center">
-  <b>Level:</b> 28 &nbsp;|&nbsp; <b>Role:</b> Creative Technologist &nbsp;|&nbsp; <b>Main Skill:</b> Problem Solving
-</p>
-<p align="center">
-  <code>TypeScript</code> <code>Go</code> <code>Node.js</code> <code>React</code> <code>Python</code> <code>Security</code> <code>Automation</code>
+  <img src="https://skillicons.dev/icons?i=typescript,go,js,nodejs,react,python,postgresql,docker,linux,git,redis,graphql,aws" height="32" />
 </p>
 
 ---
+
+## 🕹️ Mini Game: Choose Your Dev Path!
 
 <details open>
-  <summary><b>🕹️ Mini Game: Choose Your Dev Path!</b></summary>
+  <summary><b>Start Your Adventure!</b></summary>
 
   <table>
     <tr>
       <td valign="top"><b>🌀 Monad Allegiance</b></td>
       <td>
-        <i>You encounter a code puzzle:</i><br>
+        <i>Code Puzzle:</i><br>
         What is the result of <code>[1,2,3].map(x =&gt; x * 2)</code>?<br>
         <details>
           <summary>Show Answer</summary>
@@ -63,20 +75,33 @@
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements
 
 - 🧠 Functional Programming Guru ([Monad Allegiance](https://github.com/deseti/monad-allegiance))
 - 🛡️ Security Enthusiast ([MoniVault](https://github.com/deseti/MoniVault))
 - ⚡ Automation Champion ([MCP-MONI](https://github.com/deseti/MCP-MONI))
 - 🤝 Open Source Mentor
+- 📝 Technical Writer
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,go,js,nodejs,react,python,postgresql,docker,linux,git" height="32" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deseti&show_icons=true&theme=radical" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deseti&layout=compact&theme=radical" height="140"/>
 </p>
+<p align="center">
+  <img src="https://readme-activity-graph.cyclic.app/graph?username=deseti&theme=react-dark" width="90%"/>
+</p>
+
+---
+
+## 🌱 Contribution & Collaboration
+
+- 💬 Open to code reviews, pairing, and new open source projects
+- 🏆 Let’s build something impactful together!
+- 📢 Want to contribute? Check my pinned repos or open an issue/discussion
 
 ---
 
@@ -84,18 +109,8 @@
 
 - 📨 Email: [almachzumisetiaji1@gmail.com](mailto:almachzumisetiaji1@gmail.com)
 - 🕊️ X: [@deseti_nad](https://x.com/deseti_nad)
+- 💼 LinkedIn: [linkedin.com/in/almachzumi](https://linkedin.com/in/almachzumi)
 - 💬 Open an issue/discussion to start a quest!
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deseti&show_icons=true&theme=radical" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deseti&layout=compact&theme=radical" height="140"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-activity-graph.cyclic.app/graph?username=deseti&theme=react-dark" width="90%"/>
-</p>
 
 ---
 
