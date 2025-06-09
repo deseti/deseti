@@ -3,66 +3,91 @@
   <img src="https://img.shields.io/github/stars/deseti?style=social" />
 </p>
 
-<h1 align="center">Hi, I'm Deseti! 🚀</h1>
-<p align="center"><b>Problem Solver | Developer | Creative Technologist</b></p>
+<h1 align="center">🎮 Deseti's Dev Adventure 🚀</h1>
+<p align="center"><b>Coding is my playground, open source is my multiplayer mode.</b></p>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,go,js,react,nodejs,python,postgresql,docker" alt="skills" height="32"/>
+  <b>Level:</b> 28 &nbsp;|&nbsp; <b>Class:</b> Creative Technologist &nbsp;|&nbsp; <b>Main Skill:</b> Problem Solving
+</p>
+<p align="center">
+  <code>TypeScript</code> <code>Go</code> <code>Node.js</code> <code>React</code> <code>Python</code> <code>Security</code> <code>Automation</code>
 </p>
 
 ---
 
-## 🏆 About Me
+## 🕹️ Mini Game: Choose Your Path!
 
-Hi! I love building tech that’s simple but powerful, from functional programming libraries to security tools and automation dashboards.<br>
-I believe in **clean code, clear documentation, and making open source a welcoming place for all**.
+<details>
+  <summary><b>▶️ Start Your Quest!</b></summary>
+
+  **Welcome, Adventurer! Choose your path:**
+
+  1️⃣ [Monad Allegiance](#monad-quest)  
+  2️⃣ [MoniVault](#vault-quest)  
+  3️⃣ [MCP-MONI](#automation-quest)
+
+  ---
+
+  ### <a name="monad-quest"></a>🌀 Monad Quest
+  You found a puzzle:  
+  <details>
+    <summary>Click to solve</summary>
+    What is the result of <code>[1,2,3].map(x =&gt; x * 2)</code>?  
+    <details>
+      <summary>Reveal Answer</summary>
+      <b>[2, 4, 6]</b> 🎉
+    </details>
+  </details>
+
+  ### <a name="vault-quest"></a>🔒 Vault Quest
+  The vault is locked!  
+  Password clue: <i>the repo name in reverse</i>  
+  <details>
+    <summary>Need a hint?</summary>
+    <code>tluavinoM</code>
+  </details>
+
+  ### <a name="automation-quest"></a>⚡ Automation Quest
+  A dashboard appears with a big red button...  
+  <details>
+    <summary>Push the button?</summary>
+    <b>System automated! Productivity +10⚡</b>
+  </details>
+
+  ---
+  <b>Thank you for playing!</b>  
+  Want more? Fork a repo, open an issue, or DM me on X!
+</details>
 
 ---
 
-## 🧠 My Key Skills
+## 🏅 Achievements
 
-- **Functional Programming** ([Monad Allegiance](https://github.com/deseti/monad-allegiance)):  
-  Making abstract concepts simple, fun, and practical for everyone.
-
-- **Security & Encryption** ([MoniVault](https://github.com/deseti/MoniVault)):  
-  Creating safe spaces for digital life with robust, user-friendly security.
-
-- **Automation & Monitoring** ([MCP-MONI](https://github.com/deseti/MCP-MONI)):  
-  Turning repetitive tasks into one-click actions and building real-time dashboards.
-
-- **Modern Web Development:**  
-  TypeScript, JavaScript, Go, Node.js, React, Python, PostgreSQL, Docker.
-
-- **Open Source Collaboration:**  
-  Friendly, inclusive, and always open to new ideas and contributors!
+- 🧠 Functional Programming Guru ([Monad Allegiance](https://github.com/deseti/monad-allegiance))
+- 🛡️ Security Enthusiast ([MoniVault](https://github.com/deseti/MoniVault))
+- ⚡ Automation Champion ([MCP-MONI](https://github.com/deseti/MCP-MONI))
+- 🤝 Open Source Mentor
 
 ---
 
-## 🌟 Highlighted Projects
+## ✨ Skills Tree
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Monad Allegiance](https://github.com/deseti/monad-allegiance) | Friendly functional programming for real people. Master monads with zero headache. | TypeScript, FP |
-| [MoniVault](https://github.com/deseti/MoniVault) | Secure, minimal, and fast vault for your digital valuables. | Node.js, React, Crypto |
-| [MCP-MONI](https://github.com/deseti/MCP-MONI) | Effortless monitoring & automation. Plug-n-play, relax, repeat. | Go, JS, Realtime Dashboards |
-
----
-
-## ✨ Fun Facts
-
-- 🧩 Love puzzles and breaking down complex problems  
-- 🎮 Gamer at heart  
-- 🤝 Always happy to help newcomers get started in open source
+```
+🟢 TypeScript    🟢 Go           🟢 Node.js
+🟢 JavaScript    🟢 Python       🟢 React
+🟢 PostgreSQL    🟢 Docker       🟢 Security
+🟢 Automation    🟢 FP (Monads)  🟢 Open Source
+```
 
 ---
 
-## 📫 Let’s Connect!
+## 📬 Contact & Multiplayer
 
 - 📨 Email: almachzumisetiaji1@gmail.com  
-- 🕊️ X (Twitter): [@deseti_nad](https://x.com/deseti_nad)  
-- 💬 Or just open an issue or discussion in any of my repos!
+- 🕊️ X: [@deseti_nad](https://x.com/deseti_nad)  
+- 💬 Or start a quest (issue/discussion) on any repo!
 
 ---
 
@@ -73,4 +98,4 @@ I believe in **clean code, clear documentation, and making open source a welcomi
 
 ---
 
-<sub align="center">Built with ☕, creativity, and a passion for code. Let’s build something awesome together!</sub>
+<p align="center"><sub>🕹️ Powered up with ☕, code, and curiosity. Level up together!</sub></p>
