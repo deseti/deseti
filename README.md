@@ -39,11 +39,13 @@ Welcome to my GitHub profile! I'm passionate about building decentralized soluti
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 My GitHub Journey
 
-![Deseti's GitHub stats](https://github-readme-stats.vercel.app/api?username=deseti&show_icons=true&theme=radical)
+- **17 Public Repositories** showcasing my work in Web3 and blockchain
+- **Active Contributor** to decentralized projects
+- **20+ Followers** - Thanks for the support!  🙏
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deseti&layout=compact&theme=radical)
+View my repositories and contributions at [@deseti](https://github.com/deseti)
 
 ---
 
@@ -55,15 +57,16 @@ Check out my repositories to see what I'm working on:
 - 💼 **Smart Contracts** - Exploring blockchain development
 - 🛠️ **Utilities** - Tools for developers
 
-*More details available in my repositories*
+*Visit my [repositories](https://github.com/deseti?tab=repositories) to explore my latest work*
 
 ---
 
 ## 📫 Get In Touch
 
 - 🐦 **Twitter/X:** [@deseti213](https://x.com/deseti213)
-- 🔗 **Links:** [Linktree](https://linktr. ee/deseti)
-- 📧 **Email:** Available on request
+- 🔗 **Links:** [Linktree](https://linktr.ee/deseti)
+- 💼 **Company:** Explorer
+- 🌍 **Based:** Global
 
 ---
 
@@ -72,15 +75,16 @@ Check out my repositories to see what I'm working on:
 - 🔄 Exploring Web3 protocols and innovations
 - 📚 Learning advanced blockchain architecture
 - 🤝 Open to collaborations on blockchain projects
+- 🚀 Building decentralized solutions
 
 ---
 
 ## 💬 Let's Connect!
 
-I'm always interested in discussing blockchain technology, Web3 projects, and decentralized solutions. Feel free to reach out!
-
-**Happy coding! 🚀**
+I'm always interested in discussing blockchain technology, Web3 projects, and decentralized solutions. Feel free to reach out and let's collaborate!
 
 ---
+
+**Happy coding! 🚀**
 
 *Last updated: December 2025*
